@@ -10,4 +10,9 @@ class DemoApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void test() {
+        //Just doing this to test github with intellij
+    }
+
 }
